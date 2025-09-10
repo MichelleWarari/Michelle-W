@@ -1,4 +1,4 @@
-# Hi there, I'm [Michelle warari] 👋
+# Hi there, I'm Michelle Warari 👋
 
 ## Data Analyst | Machine Learning Enthusiast | Mathematics & Statistics Student
 
@@ -41,7 +41,7 @@ I'm a data-driven professional with expertise in data analysis, machine learning
 
 ## 📊 Featured Projects
 
-### 🩺 [Diabetes Prediction Model](link-to-repo)
+### 🩺 [Diabetes Prediction Model][(link-to-repo)(https://github.com/MichelleWarari/Chest-X-Ray-Images-Pneumonia-Analysis)]
 **Machine Learning | Healthcare Analytics**
 - Built a classification model to predict diabetes risk using patient health metrics
 - Implemented feature engineering and model optimization techniques
@@ -55,14 +55,14 @@ I'm a data-driven professional with expertise in data analysis, machine learning
 - Created an end-to-end pipeline for news verification
 - **Tech Stack**: Python, NLTK, Scikit-learn, Natural Language Processing
 
-### 📈 [Customer Churn Prediction](link-to-repo)
+### 📈 [Customer Churn Prediction][(link-to-repo)(https://github.com/MichelleWarari/Churn-Analysis)]
 **Predictive Analytics | Business Intelligence**
 - Analyzed customer behavior patterns to predict churn probability
 - Implemented multiple ML algorithms and compared performance
 - Provided actionable insights for customer retention strategies
 - **Tech Stack**: Python, Machine Learning, Statistical Analysis
 
-### 📊 [Product Sales Dashboard](link-to-repo)
+### 📊 [Product Sales Dashboard][(link-to-repo)(https://github.com/MichelleWarari/Product-Sales-Analysis)]
 **Business Intelligence | Data Visualization**
 - Created interactive dashboards for sales performance monitoring
 - Implemented KPI tracking and trend analysis
@@ -73,8 +73,8 @@ I'm a data-driven professional with expertise in data analysis, machine learning
 
 ## 📈 GitHub Statistics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Michelle=MichelleWarari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Michelle=MichelleWarari&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleWarari&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleWarari&layout=compact&theme=radical)
 
 ---
 
