@@ -41,7 +41,7 @@ I'm a data-driven professional with expertise in data analysis, machine learning
 
 ## 📊 Featured Projects
 
-### 🩺 [Diabetes Prediction Model][https://github.com/MichelleWarari/Chest-X-Ray-Images-Pneumonia-Analysis]
+### 🩺 [Diabetes Prediction Model](https://github.com/github.com/MichelleWarari/Diabetes-Prediction-Project) ![GitHub stars](https://img.shields.io/github/stars/MichelleWarari/Diabetes-Prediction-Project)
 **Machine Learning | Healthcare Analytics**
 - Built a classification model to predict diabetes risk using patient health metrics
 - Implemented feature engineering and model optimization techniques
