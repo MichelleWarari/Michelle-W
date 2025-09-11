@@ -48,7 +48,7 @@ I'm a data-driven professional with expertise in data analysis, machine learning
 - Achieved [X]% accuracy with comprehensive model evaluation
 - **Tech Stack**: Python, Scikit-learn, Pandas, Matplotlib
 
-### 📰 [Fake News Detection System](link-to-repo)
+### 📰 [Fake News Detection System](https://github.com/MichelleWarari/Fake-News-Detection-Model)
 **NLP | Classification | Social Media Analytics**
 - Developed an NLP-based system to classify news articles as real or fake
 - Implemented text preprocessing, feature extraction, and machine learning algorithms
